@@ -21,4 +21,8 @@ DA RISOLVERE
 Mi sono anche persa cosa va fatto con il DESCRIPTION file
 
 Devo anche fare i manuali per le funzioni (cartella man)
+Copio la funziona su chat gpt e gli chiedo di farmi il file Rd con l'help. Credo file.Rd e ci inserisco quello che mi restituisce.
+
+Struttura tipica del pacchetto: script R in una cartella apposita, la cartella man, file DESCRIPTION e README file
+
 
